@@ -1,10 +1,14 @@
 body {
-    color: #fff;
+    color: hsl(0, 0%, 100%);
+}
+ul{
+    font-size: 200;
 }
 
 #highScoresList {
     list-style: none;
     margin-bottom: 4rem;
+    font-size: large;
 }
 
 .high-score {
